@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754772223113",
+    "project_id": "testchat-c908e",
+    "storage_bucket": "testchat-c908e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754772223113:android:457fd6ed51523fc5529258",
+        "android_client_info": {
+          "package_name": "com.example.chat_bot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754772223113-euco3vivcl5c3g2qs1qar1j4l0b9k1mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9AkS5ukYgTO1-oW2Fx-xy6JmyCdDSHBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754772223113-euco3vivcl5c3g2qs1qar1j4l0b9k1mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
